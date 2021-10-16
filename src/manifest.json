@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://bridge.urbit.org/",
+  "providedBy": { "thePR0M3TH3AN": "Skyflow", "url": "https://bridge.urbit.org/" },
+  "icons": [
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Urbit Bridge UNOFFICIAL",
+  "description": "An application for interacting with Azimuth.",
+  "iconPath": "./images/webclip.png",
+  "short_name": "UrbitBridge",
+  "start_url": "./index.html",
+  "theme_color": "#fff",
+  "skylink": ""
+}

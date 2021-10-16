@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b300182.chunk.css",
+    "main.js": "/static/js/main.c02dd66f.chunk.js",
+    "main.js.map": "/static/js/main.c02dd66f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.757c28d0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.757c28d0.js.map",
+    "static/js/2.d15fa35e.chunk.js": "/static/js/2.d15fa35e.chunk.js",
+    "static/js/2.d15fa35e.chunk.js.map": "/static/js/2.d15fa35e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6b300182.chunk.css.map": "/static/css/main.6b300182.chunk.css.map",
+    "static/js/2.d15fa35e.chunk.js.LICENSE.txt": "/static/js/2.d15fa35e.chunk.js.LICENSE.txt",
+    "static/media/copy.bae07828.svg": "/static/media/copy.bae07828.svg",
+    "static/media/info.ac96d476.svg": "/static/media/info.ac96d476.svg",
+    "static/media/search.08f89f2a.svg": "/static/media/search.08f89f2a.svg",
+    "static/media/secret-hidden.e5ef1af3.svg": "/static/media/secret-hidden.e5ef1af3.svg",
+    "static/media/secret-show.339cc6f2.svg": "/static/media/secret-show.339cc6f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.757c28d0.js",
+    "static/js/2.d15fa35e.chunk.js",
+    "static/css/main.6b300182.chunk.css",
+    "static/js/main.c02dd66f.chunk.js"
+  ]
+}
