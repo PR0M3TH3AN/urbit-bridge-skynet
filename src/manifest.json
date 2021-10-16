@@ -21,7 +21,7 @@
   "name": "Urbit Bridge UNOFFICIAL",
   "description": "An application for interacting with Azimuth.",
   "iconPath": "./images/webclip.png",
-  "short_name": "UrbitBridge",
+  "short_name": "Urbit Bridge UNOFFICIAL",
   "start_url": "./index.html",
   "theme_color": "#fff",
   "skylink": "AQDCIu6GvSQs9jIBCzGvzhbzYl1kaFFgkL-krtcAfMHmMw"
